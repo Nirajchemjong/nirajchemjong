@@ -1,7 +1,5 @@
 # Hi there, I'm Niraj Chemjong 👋
 
-![Header](https://raw.githubusercontent.com/nirajchemjong/nirajchemjong/master/header.png)
-
 I'm a passionate Full Stack Developer from Nepal, currently working at Beyond Himalaya Tech. I enjoy creating innovative solutions and building web applications that solve real-world problems.
 
 ## 🔧 Technologies & Tools
@@ -33,5 +31,3 @@ I'm a passionate Full Stack Developer from Nepal, currently working at Beyond Hi
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/niraj-chemjong/)
-
-![Footer](https://raw.githubusercontent.com/nirajchemjong/nirajchemjong/master/footer.png)
