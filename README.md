@@ -29,9 +29,6 @@ I'm a passionate Full Stack Developer from Australia, currently working at Beyon
 ## ⏳ Wakatime Stats
 ![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange
 
-## ⏳ WakaTime Stats
-
-![nirajchemjong's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nirajchemjong&theme=radical)
 
 
 ## 📫 How to reach me
