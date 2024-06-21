@@ -23,8 +23,6 @@ I'm a Full Stack Developer from Australia. I love building applications and lear
 ## 📊 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nirajchemjong&theme=radical)
 
-## ⏳ Wakatime Stats
-![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange)
 
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
