@@ -26,9 +26,6 @@ I'm a passionate Full Stack Developer from Australia, currently working at Beyon
 ## 🔥 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajchemjong&theme=radical)
 
-## ⏳ Wakatime Stats
-![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange
-
 
 
 ## 📫 How to reach me
