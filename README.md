@@ -12,6 +12,15 @@ I'm a Full Stack Developer from Australia. I love building applications and lear
 
 ## 📈 GitHub Stats
 ![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajchemjong&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajchemjong&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nirajchemjong&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajchemjong&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=nirajchemjong&theme=radical)
+
+## 📊 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?nirajchemjong=yourusername&theme=radical)
 
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
