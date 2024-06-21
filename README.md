@@ -1,7 +1,5 @@
 # Hi there, I'm Niraj Chemjong 👋
 
-![Header](https://raw.githubusercontent.com/nirajchemjong/nirajchemjong/master/header.png)
-
 I'm a Full Stack Developer from Australia. I love building applications and learning new technologies.
 
 ## 🔧 Technologies & Tools
@@ -19,5 +17,3 @@ I'm a Full Stack Developer from Australia. I love building applications and lear
 - [Email](mailto:chemjongniraj7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/niraj-chemjong/)
   
-
-![Footer](https://raw.githubusercontent.com/nirajchemjong/nirajchemjong/master/footer.png)
