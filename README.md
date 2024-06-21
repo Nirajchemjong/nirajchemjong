@@ -22,9 +22,6 @@ I'm a passionate Full Stack Developer from Nepal, currently working at Beyond Hi
 ## 🔥 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajchemjong&theme=radical)
 
-## 📊 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nirajchemjong&theme=radical)
-
 ## ⏳ Wakatime Stats
 ![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange)
 
