@@ -11,6 +11,7 @@ I'm a passionate Full Stack Developer from Australia, currently working at Beyon
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Redis](https://img.shields.io/badge/-Redis-black=flat-square&logo=redis)
 
 ## 📈 GitHub Stats
 ![Niraj Chemjong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajchemjong&show_icons=true&theme=radical)
