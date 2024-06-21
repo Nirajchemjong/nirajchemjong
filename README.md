@@ -20,7 +20,7 @@ I'm a Full Stack Developer from Australia. I love building applications and lear
 ![trophy](https://github-profile-trophy.vercel.app/?username=nirajchemjong&theme=radical)
 
 ## 📊 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?nirajchemjong=yourusername&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nirajchemjong&theme=radical)
 
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
