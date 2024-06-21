@@ -1,6 +1,8 @@
 # Hi there, I'm Niraj Chemjong 👋
 
-I'm a Full Stack Developer from Australia. I love building applications and learning new technologies.
+![Header](https://raw.githubusercontent.com/nirajchemjong/nirajchemjong/master/header.png)
+
+I'm a passionate Full Stack Developer from Nepal, currently working at Beyond Himalaya Tech. I enjoy creating innovative solutions and building web applications that solve real-world problems.
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -9,9 +11,11 @@ I'm a Full Stack Developer from Australia. I love building applications and lear
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ## 📈 GitHub Stats
-![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajchemjong&show_icons=true&theme=radical)
+![Niraj Chemjong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajchemjong&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajchemjong&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
@@ -23,8 +27,11 @@ I'm a Full Stack Developer from Australia. I love building applications and lear
 ## 📊 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nirajchemjong&theme=radical)
 
+## ⏳ Wakatime Stats
+![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange)
 
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/niraj-chemjong/)
-  
+
+![Footer](https://raw.githubusercontent.com/nirajchemjong/nirajchemjong/master/footer.png)
