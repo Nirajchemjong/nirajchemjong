@@ -27,7 +27,12 @@ I'm a passionate Full Stack Developer from Australia, currently working at Beyon
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajchemjong&theme=radical)
 
 ## ⏳ Wakatime Stats
-![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange)
+![wakatime](https://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-orange
+
+## ⏳ WakaTime Stats
+
+![nirajchemjong's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nirajchemjong&theme=radical)
+
 
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
