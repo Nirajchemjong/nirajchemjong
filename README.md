@@ -16,12 +16,6 @@ I'm a Full Stack Developer from Australia, currently working at Beyond Himalaya 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
 
-## 📈 GitHub Stats
-![Niraj Chemjong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajchemjong&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajchemjong&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=nirajchemjong&theme=radical)
 
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
