@@ -23,11 +23,6 @@ I'm a Full Stack Developer from Australia, currently working at Beyond Himalaya 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=nirajchemjong&theme=radical)
 
-## 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajchemjong&theme=radical)
-
-
-
 ## 📫 How to reach me
 - [Email](mailto:chemjongniraj7@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/niraj-chemjong/)
