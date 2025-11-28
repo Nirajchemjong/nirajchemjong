@@ -1,6 +1,6 @@
 # Hi there, I'm Niraj Chemjong 👋
 
-I'm a Full Stack Developer from Australia. I enjoy creating innovative solutions and building web applications that solve real-world problems.
+I'm a Full Stack Developer. I enjoy creating innovative solutions and building web applications that solve real-world problems.
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
